@@ -1,0 +1,16 @@
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+.baconImg{
+  background-color: green;
+  width: 20%;
+  height: 20%;
+}
+
+.broccoliImg{
+  background-color: red;
+  width: 20%;
+  height: 20%;
+}

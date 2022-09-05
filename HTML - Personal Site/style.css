@@ -1,0 +1,18 @@
+body{
+  background-color: powderblue;
+}
+
+h1, h3 {
+  color: #25316D;
+}
+
+hr{
+  border-style: none none dotted;
+  color: gray;
+  border-width: 5px;
+  width: 7%;
+}
+table td{
+  padding-left: 50px;
+  padding-bottom: 20px;
+}
