@@ -14,3 +14,7 @@ h1{
   width: 20%;
   height: 20%;
 }
+
+.circular{
+  border-radius: 100%;
+}
