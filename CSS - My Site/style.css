@@ -8,4 +8,24 @@ body{
 
 h1{
   margin-top: 0;
+  display: inline-block;
+}
+
+p{
+  display: inline-block;
+}
+
+img{
+
+}
+.top-container{
+
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
 }
