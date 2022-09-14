@@ -8,13 +8,20 @@ h1 {
   font-weight: 900;
  }
 
+ h2{
+   fonta-family:"Montserrat-bold";
+   font-size: 3rem;
+   line-height: 1.5;
+ }
+
+/* Title Section */
 #title{
   background-color: #ff4c68;
   color: white;
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* Nav Bar */
@@ -43,9 +50,11 @@ h1 {
 
 /* Tittle Image */
 .tittleImage{
-  width: 60%;
+  width: 20%;
   transform: rotate(25deg);
   padding-left: 5%;
+  position: absolute;
+  right: 30%;
 }
 
 /* Features Section */
@@ -73,4 +82,48 @@ h1 {
 
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+}
+
+/* Testimonials Section */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press Section */
+
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#press img{
+  width:15%;
+  height: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section*/
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
 }
